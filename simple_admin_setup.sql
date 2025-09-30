@@ -1,0 +1,7 @@
+-- DEPRECATED: Use the organized SQL files instead
+-- This file has been replaced by:
+-- 08_authentication_setup.sql
+-- 09_default_admin_users.sql
+-- 10_security_and_permissions.sql
+--
+-- Run those files in sequence for proper setup.

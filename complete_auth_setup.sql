@@ -1,0 +1,7 @@
+-- DEPRECATED: Use the organized SQL files instead
+-- This file has been replaced by the organized sequence:
+-- 08_authentication_setup.sql - Authentication function and security
+-- 09_default_admin_users.sql - Default admin users creation
+-- 10_security_and_permissions.sql - Final security configuration
+--
+-- Run those files in sequence (08, 09, 10) for proper setup.
